@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/mojo/static/css/main.96097491.css",
+    "main.js": "/mojo/static/js/main.fb4cb22d.js",
+    "static/js/787.89e33eae.chunk.js": "/mojo/static/js/787.89e33eae.chunk.js",
+    "static/media/logo.png": "/mojo/static/media/logo.1dae2c62f05b788d0405.png",
+    "static/media/Prime_Video.jpg": "/mojo/static/media/Prime_Video.774b061c5cb973380828.jpg",
+    "static/media/Sonyliv.png": "/mojo/static/media/Sonyliv.e6d2437e998a5c7c5715.png",
+    "index.html": "/mojo/index.html",
+    "main.96097491.css.map": "/mojo/static/css/main.96097491.css.map",
+    "main.fb4cb22d.js.map": "/mojo/static/js/main.fb4cb22d.js.map",
+    "787.89e33eae.chunk.js.map": "/mojo/static/js/787.89e33eae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96097491.css",
+    "static/js/main.fb4cb22d.js"
+  ]
+}
